@@ -1,0 +1,7 @@
+img {
+    width: 300;
+    height: 500;
+}
+body {
+    background-image: linear-gradient(to right top, #76f842, #49d925, #32d848, #0f7717, #0c6409);
+}
